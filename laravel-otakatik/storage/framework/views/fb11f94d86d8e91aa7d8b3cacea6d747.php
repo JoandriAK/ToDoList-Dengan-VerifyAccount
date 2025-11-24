@@ -1,0 +1,1 @@
+<h1>Halo <?php echo e($namaOrang); ?> dari blade</h1><?php /**PATH C:\Users\Joandri Alkahfi K\Desktop\laravel\resources\views/coba/halo.blade.php ENDPATH**/ ?>
